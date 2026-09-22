@@ -32,14 +32,14 @@ class Solution {
         return Math.max(max,d);
         
     }
-    static int height(TreeNode root)
+    static int height(TreeNode node)
     {
-        if(root == null)
+        if(node == null)
         {
             return 0;
         }
-        int lh = height(root.left);
-        int rh = height(root.right);
+        int lh = height(node.left);
+        int rh = height(node.right);
         return 1 + Math.max(lh,rh);
     }
 }
