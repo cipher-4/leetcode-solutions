@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/samm-4/leetcode-solutions/tree/master/0402-remove-k-digits) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/samm-4/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Greedy
 |  |
 | ------- |
@@ -94,5 +95,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/samm-4/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/samm-4/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Math
+|  |
+| ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/samm-4/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
