@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/samm-4/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/samm-4/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/samm-4/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/samm-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/samm-4/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/samm-4/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/samm-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/samm-4/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/samm-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
