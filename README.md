@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/samm-4/leetcode-solutions/tree/master/0704-binary-search) |
 | [0733-flood-fill](https://github.com/samm-4/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0907-sum-of-subarray-minimums](https://github.com/samm-4/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1020-number-of-enclaves](https://github.com/samm-4/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [2104-sum-of-subarray-ranges](https://github.com/samm-4/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/samm-4/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/samm-4/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/samm-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samm-4/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/samm-4/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/samm-4/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/samm-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/samm-4/leetcode-solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/samm-4/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/samm-4/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## DP on Trees
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/samm-4/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/samm-4/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/samm-4/leetcode-solutions/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/samm-4/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Simulation
 |  |
 | ------- |
@@ -170,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/samm-4/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/samm-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/samm-4/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
