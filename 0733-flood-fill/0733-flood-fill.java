@@ -17,12 +17,10 @@ class Solution {
         
         int pc = image[sr][sc];
 
-        /*
         if(pc == color)
         {
             return image;
         }
-        */
 
         dfs(sr,sc,pc,color,image,vis,res);
 
