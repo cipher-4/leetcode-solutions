@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/samm-4/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/samm-4/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samm-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/samm-4/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/samm-4/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Dynamic Programming
 |  |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/samm-4/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/samm-4/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [4034-minimum-bishop-moves-to-reach-target](https://github.com/samm-4/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/samm-4/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Bracket Sequences
 |  |
