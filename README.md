@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samm-4/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samm-4/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0200-number-of-islands](https://github.com/samm-4/leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samm-4/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/samm-4/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/samm-4/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0704-binary-search](https://github.com/samm-4/leetcode-solutions/tree/master/0704-binary-search) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samm-4/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/samm-4/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/samm-4/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/samm-4/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/samm-4/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samm-4/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samm-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
