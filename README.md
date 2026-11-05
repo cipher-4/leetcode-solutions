@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/samm-4/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1020-number-of-enclaves](https://github.com/samm-4/leetcode-solutions/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/samm-4/leetcode-solutions/tree/master/1254-number-of-closed-islands) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samm-4/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2104-sum-of-subarray-ranges](https://github.com/samm-4/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/samm-4/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/samm-4/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/samm-4/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samm-4/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samm-4/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samm-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/samm-4/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samm-4/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/samm-4/leetcode-solutions/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samm-4/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Enumeration
 |  |
 | ------- |
@@ -206,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/samm-4/leetcode-solutions/tree/master/0547-number-of-provinces) |
+## Two Pointers
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/samm-4/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
