@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/samm-4/leetcode-solutions/tree/master/0402-remove-k-digits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/samm-4/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samm-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/samm-4/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/samm-4/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/samm-4/leetcode-solutions/tree/master/2409-count-days-spent-together) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/samm-4/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/samm-4/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/samm-4/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/samm-4/leetcode-solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Bracket Sequences
