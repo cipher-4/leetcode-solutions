@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/samm-4/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/samm-4/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/samm-4/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/samm-4/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0200-number-of-islands](https://github.com/samm-4/leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samm-4/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/samm-4/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/samm-4/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/samm-4/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samm-4/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/samm-4/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/samm-4/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/samm-4/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/samm-4/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Database
 |  |
