@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/samm-4/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0542-01-matrix](https://github.com/samm-4/leetcode-solutions/tree/master/0542-01-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/samm-4/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samm-4/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/samm-4/leetcode-solutions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/samm-4/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/samm-4/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samm-4/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -275,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samm-4/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/samm-4/leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
