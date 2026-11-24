@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/samm-4/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/samm-4/leetcode-solutions/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/samm-4/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/samm-4/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/samm-4/leetcode-solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/samm-4/leetcode-solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/samm-4/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/samm-4/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2747-count-zero-request-servers](https://github.com/samm-4/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/samm-4/leetcode-solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/samm-4/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Math
 |  |
 | ------- |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samm-4/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/samm-4/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/samm-4/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/samm-4/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/samm-4/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/samm-4/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [4034-minimum-bishop-moves-to-reach-target](https://github.com/samm-4/leetcode-solutions/tree/master/4034-minimum-bishop-moves-to-reach-target) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/samm-4/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/samm-4/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -285,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/samm-4/leetcode-solutions/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/samm-4/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
