@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/samm-4/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/samm-4/leetcode-solutions/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/samm-4/leetcode-solutions/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/samm-4/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/samm-4/leetcode-solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/samm-4/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/samm-4/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/samm-4/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/samm-4/leetcode-solutions/tree/master/0059-spiral-matrix-ii) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/samm-4/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/samm-4/leetcode-solutions/tree/master/3360-stone-removal-game) |
 ## Binary Search
 |  |
 | ------- |
